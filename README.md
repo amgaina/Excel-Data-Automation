@@ -1,4 +1,4 @@
-# Excel-Data-Automation-Part-1
+# Excel-Data-Automation
 
 This Python script automates the process of applying a 10% discount to data in an Excel spreadsheet and adding a bar chart to visualize the corrected data. It's particularly useful when dealing with large datasets where manual correction is impractical.
 
